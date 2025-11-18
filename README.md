@@ -1,4 +1,6 @@
-## Hi there 👋
+nama:Reyhan Setiawan 
+jurusan:ITK
+saya adalah seorang mahasiswa di stikom El Rahma 
 
 <!--
 **reyhansetiawan/reyhansetiawan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
